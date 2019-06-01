@@ -1,6 +1,6 @@
 # blogssr
 
-> My astounding Nuxt.js project
+> My priceless Nuxt.js project
 
 ## Build Setup
 

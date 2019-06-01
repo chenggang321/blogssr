@@ -6,18 +6,19 @@
         blogssr
       </h1>
       <h2 class="subtitle">
-        My astounding Nuxt.js project
+        My priceless Nuxt.js project
       </h2>
       <div class="links">
-        <a href="https://nuxtjs.org/" target="_blank" class="button--green"
-          >Documentation</a
-        >
+        <a
+          href="https://nuxtjs.org/"
+          target="_blank"
+          class="button--green"
+        >Documentation</a>
         <a
           href="https://github.com/nuxt/nuxt.js"
           target="_blank"
           class="button--grey"
-          >GitHub</a
-        >
+        >GitHub</a>
       </div>
     </div>
   </section>
